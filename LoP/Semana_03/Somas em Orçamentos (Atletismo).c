@@ -7,7 +7,7 @@ int main(){
     float qnt_total = 0;
     float val_total = 0;
 
-    while(true){
+    while(1){
         scanf("%f", &input);
         qnt_und = input;
 
